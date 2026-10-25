@@ -1,0 +1,22 @@
+# Dados e credenciais nunca fazem parte desta entrega.
+.env
+.env.*
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.bak
+*.backup
+SNAPSHOT*
+snapshot*
+backup/
+backups/
+.backups/
+node_modules/
+dist/
+*.log
+# Somente o pacote cumulativo verificado deve ser versionado.
+*.zip
+!atualizacoes/BLACKOUT-ATUALIZACAO-COMPLETA-SEM-BANCO-25-10-2026.zip
